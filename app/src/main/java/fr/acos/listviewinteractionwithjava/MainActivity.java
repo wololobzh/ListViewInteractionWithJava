@@ -19,9 +19,8 @@ public class MainActivity extends AppCompatActivity
     PersonneAdapter adapter = null;
 
     /**
+     * Callback exécuté au moment de la création de l'activité
      *
-     *
-     * @param savedInstanceState
      */
     @Override
     protected void onCreate(Bundle savedInstanceState)
